@@ -12,9 +12,9 @@ api = Api(
     "<h2>*Подсказка по знакам зодика на английском*</h2>"\
     "<h3>Aries - Овен, Taurus - Телец, Gemini - Близнецы,\n Cancer - Рак, Leo - Лев, Virgo - Дева,\n Libra - Весы, Scorpio - Скорпион, Sagittarius - Стрелец,\n Capricorn - Козерог, Aquarius - Водолей, Pisces - Рыбы</h3>", 
     license='MIT',
-    contact='Гнатюк Анна',
-    contact_email='nyusha_gnatyuk@mail.ru',
-    phone='89289339086',
+    contact='Жирова Софья',
+    contact_email='sonizh28@mail.ru',
+    phone='89064933596',
     doc='/',
     prefix='/api/v1'
 )
